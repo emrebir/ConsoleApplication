@@ -1,0 +1,6 @@
+c:\users\mustafa.bir\documents\visual studio 2015\Projects\Con170802_BankamatikProjesi\Con170802_BankamatikProjesi\bin\Debug\Con170802_BankamatikProjesi.exe.config
+c:\users\mustafa.bir\documents\visual studio 2015\Projects\Con170802_BankamatikProjesi\Con170802_BankamatikProjesi\obj\Debug\Con170802_BankamatikProjesi.csprojResolveAssemblyReference.cache
+C:\Users\mustafa.bir\Documents\Visual Studio 2015\Projects\Con170802_BankamatikProjesi\Con170802_BankamatikProjesi\bin\Debug\Con170802_BankamatikProjesi.exe
+C:\Users\mustafa.bir\Documents\Visual Studio 2015\Projects\Con170802_BankamatikProjesi\Con170802_BankamatikProjesi\bin\Debug\Con170802_BankamatikProjesi.pdb
+C:\Users\mustafa.bir\Documents\Visual Studio 2015\Projects\Con170802_BankamatikProjesi\Con170802_BankamatikProjesi\obj\Debug\Con170802_BankamatikProjesi.exe
+C:\Users\mustafa.bir\Documents\Visual Studio 2015\Projects\Con170802_BankamatikProjesi\Con170802_BankamatikProjesi\obj\Debug\Con170802_BankamatikProjesi.pdb
